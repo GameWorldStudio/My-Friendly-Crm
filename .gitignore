@@ -1,0 +1,89 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+!src/**/build/
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio 2019+
+.vs/
+.vscode/
+
+# Files built by Visual Studio
+bin/
+obj/
+AppPackages/
+packages/
+
+# Visual Studio Code
+.vscode/*
+
+# ASP.NET specific
+*.dbmdl
+*.jfm
+*.sqlite
+*.sqlite3
+*.json.sscache
+
+# Uncomment if using Azure Web Apps
+# .publish*
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.psmdcp
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Include generated files
+*.g.cs
+*.g.i.cs
+
+# Don't ignore JSON files
+!global.json
+
+# Ignore node_modules for front-end projects
+node_modules/
+
+# Logs
+*.log
+
+# Others
+*.bak
+*.swp
+*.orig
+*.tmp
+*.temp
