@@ -1,0 +1,6 @@
+@My_Friendly_CRM_HostAddress = http://localhost:5209
+
+GET {{My_Friendly_CRM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
